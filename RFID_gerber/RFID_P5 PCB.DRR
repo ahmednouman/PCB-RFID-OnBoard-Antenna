@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RFID_P5 PCB.PcbDoc   22/05/2020  1:13:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RFID_P5 PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             116       PTH        34.76inch (882.82mm)
+T2      12mil (0.3mm)                                             Round             488       PTH        76.86inch (1952.16mm)
+T3      14mil (0.356mm)                                           Round             11        PTH        9.73inch (247.09mm)
+T4      35mil (0.89mm)                                            Round             12        PTH        1.39inch (35.23mm)
+T5      39mil (1mm)                                               Round             10        PTH        4.94inch (125.55mm)
+T6      62mil (1.57mm)                                            Round             2         PTH        0.64inch (16.26mm)
+T7      106mil (2.7mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T8      177mil (4.5mm)                                            Round             4         PTH        14.81inch (376.15mm)
+T9      98mil (2.5mm)                                             Round             3         NPTH       4.75inch (120.55mm)
+T10     130mil (3.3mm)                                            Round             2         NPTH       0.50inch (12.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              649
+
+Total Processing Time (hh:mm:ss) : 00:00:03

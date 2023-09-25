@@ -1,0 +1,897 @@
+*************************************************************
+FileName = RFID_P5 PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : RFID_P5 PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Ground
+      File : RFID_P5 PCB.GP1
+
+    Adding Layer      : Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : RFID_P5 PCB.GP2
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : RFID_P5 PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D58
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D70
+    D71
+    D74
+    D75
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RFID_P5 PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D58
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RFID_P5 PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RFID_P5 PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D62
+    D63
+    D65
+    D67
+    D71
+    D72
+    D74
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RFID_P5 PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D48
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D59
+    D60
+    D61
+    D121
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RFID_P5 PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D50
+    D58
+    D98
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RFID_P5 PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D58
+    D98
+    D113
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RFID_P5 PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D121
+    D123
+    D184
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RFID_P5 PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D62
+    D74
+    D117
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : RFID_P5 PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D65
+    D66
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : RFID_P5 PCB.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D65
+    D74
+    D90
+    D115
+    D185
+    D186
+    D187
+*************************************************************
+
+*************************************************************
+Generating : Router Path
+      File : RFID_P5 PCB.GM2
+
+    Adding Layer      : Router Path
+
+
+Used DCodes :
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+*************************************************************
+
+*************************************************************
+Generating : Enclosure Bottom
+      File : RFID_P5 PCB.GM4
+
+    Adding Layer      : Enclosure Bottom
+
+
+Used DCodes :
+    D90
+    D221
+    D222
+*************************************************************
+
+*************************************************************
+Generating : Construction Lines
+      File : RFID_P5 PCB.GM5
+
+    Adding Layer      : Construction Lines
+
+
+Used DCodes :
+    D74
+    D90
+    D193
+    D208
+    D212
+    D215
+    D221
+    D223
+    D224
+    D225
+    D226
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : RFID_P5 PCB.GM6
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D193
+    D221
+    D227
+    D228
+    D229
+    D230
+*************************************************************
+
+*************************************************************
+Generating : Manufacturing/Template
+      File : RFID_P5 PCB.GM11
+
+    Adding Layer      : Manufacturing/Template
+
+
+Used DCodes :
+    D62
+    D63
+    D69
+    D74
+    D90
+    D115
+    D117
+    D118
+    D187
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : RFID_P5 PCB.GM13
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D90
+    D115
+    D120
+    D185
+    D186
+    D193
+    D195
+    D204
+    D205
+    D206
+    D208
+    D210
+    D212
+    D213
+    D214
+    D215
+    D219
+    D221
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+*************************************************************
+
+*************************************************************
+Generating : Assembly Bottom
+      File : RFID_P5 PCB.GM14
+
+    Adding Layer      : Assembly Bottom
+
+
+Used DCodes :
+    D115
+    D185
+    D188
+    D189
+    D190
+    D191
+    D196
+    D197
+    D198
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Component Body Top
+      File : RFID_P5 PCB.GM15
+
+    Adding Layer      : Component Body Top
+
+
+Used DCodes :
+    D90
+    D115
+    D119
+    D185
+*************************************************************
+
+*************************************************************
+Generating : Component Body Bottom
+      File : RFID_P5 PCB.GM16
+
+    Adding Layer      : Component Body Bottom
+
+
+Used DCodes :
+    D189
+    D195
+    D198
+    D199
+    D204
+    D213
+    D215
+    D218
+    D245
+    D255
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
+    D263
+    D264
+    D265
+    D266
+    D267
+    D268
+    D269
+    D270
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 17
+      File : RFID_P5 PCB.GM17
+
+    Adding Layer      : Mechanical 17
+
+
+Used DCodes :
+    D215
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 18
+      File : RFID_P5 PCB.GM18
+
+    Adding Layer      : Mechanical 18
+
+
+Used DCodes :
+    D188
+    D189
+    D193
+    D198
+    D200
+    D205
+    D206
+    D213
+    D215
+    D236
+    D260
+    D264
+    D265
+    D268
+    D271
+    D272
+    D273
+    D274
+    D275
+    D276
+    D277
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 19
+      File : RFID_P5 PCB.GM19
+
+    Adding Layer      : Mechanical 19
+
+
+Used DCodes :
+    D188
+    D198
+    D199
+    D200
+    D236
+    D268
+    D271
+    D274
+    D275
+    D276
+    D277
+    D283
+    D284
+    D285
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : RFID_P5 PCB.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D191
+    D196
+    D200
+    D201
+    D209
+    D213
+    D287
+    D288
+    D289
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 21
+      File : RFID_P5 PCB.GM21
+
+    Adding Layer      : Mechanical 21
+
+
+Used DCodes :
+    D195
+    D210
+    D290
+*************************************************************
+
+*************************************************************
+Generating : Bottom Side Placement
+      File : RFID_P5 PCB.GM29
+
+    Adding Layer      : Bottom Side Placement
+
+
+Used DCodes :
+*************************************************************
+

@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RFID_P5 PCB.GBR   22/05/2020  1:12:23 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GP1                Ground                                  
+.GP2                Power                                   
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Board Outline                           
+.GM2                Router Path                             
+.GM4                Enclosure Bottom                        
+.GM5                Construction Lines                      
+.GM6                Dimensions                              
+.GM11               Manufacturing/Template                  
+.GM13               Assembly Top                            
+.GM14               Assembly Bottom                         
+.GM15               Component Body Top                      
+.GM16               Component Body Bottom                   
+.GM17               Mechanical 17                           
+.GM18               Mechanical 18                           
+.GM19               Mechanical 19                           
+.GM20               Mechanical 20                           
+.GM21               Mechanical 21                           
+.GM29               Bottom Side Placement                   
+------------------------------------------------------------------------------------------

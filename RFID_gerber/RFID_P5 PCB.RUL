@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\work\RFID\PCB\RFID_P5\RFID_P5 PCB.PcbDoc
+RuleKind=Width|RuleName=ALL|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Keepout Clearance|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=PolyClearance|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=ETH_HIGH_V|Scope=Board|Minimum=59.06
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=78.74
